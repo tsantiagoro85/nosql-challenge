@@ -8,4 +8,4 @@ The present repo contains the code neccesary to perform the nosql-challenge, whi
 
 - For Part 3 see the code in NoSQL_analysis_starter.ipynb. The challenge consists in performing exploratory analysis with the data.
 
-The repo also contain a 'Resources' folder, which contains the data needed to run the challenge.
+The repo also contains a 'Resources' folder, which contains the data needed to run the challenge.
